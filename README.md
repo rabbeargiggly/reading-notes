@@ -12,6 +12,10 @@
 
 
 
+"不论忙或不忙，睡得多或少，你是否总是感到很疲倦？注意力一直无法集中，脑中杂念丛生？如果你有以上状态，也许累的不是身体，而是大脑。休息不仅仅是放松身体，大脑的疲劳也不容忽视"  —— [高效休息法](https://github.com/rabbeargiggly/reading-notes/tree/main/%E9%AB%98%E6%95%88%E4%BC%91%E6%81%AF%E6%B3%95 "高效休息法")
+
+
+
 ### 人文历史
 
 "有一分证据，说一分话，从商到周的整个变格过程"   —— [翦商](https://github.com/rabbeargiggly/reading-notes/tree/main/%E7%BF%A6%E5%95%86 "翦商")
