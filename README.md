@@ -4,4 +4,5 @@
 
 
 
-"有一分证据，说一分话，从商到周的整个变格过程"   —— 翦商
+"有一分证据，说一分话，从商到周的整个变格过程"   —— [翦商](https://github.com/rabbeargiggly/reading-notes/tree/main/%E7%BF%A6%E5%95%86 "翦商")
+
